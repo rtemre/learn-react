@@ -1,4 +1,5 @@
 import "./App.css";
+// import UseMemo from "./feature/useMemo";
 // import UseCallback from "./feature/useCallback";
 // import InputForm from "./components/InputForm";
 // import ReducerCounter from "./components/ReducerCounter";
@@ -11,6 +12,7 @@ function App() {
       {/* <InputForm /> */}
       {/* <StateCounter /> */}
       {/* <UseCallback /> */}
+      {/* <UseMemo /> */}
     </>
   );
 }
