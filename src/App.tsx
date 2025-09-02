@@ -1,4 +1,5 @@
 import "./App.css";
+// import CustomTable from "./components/CustomTable";
 // import UseMemo from "./feature/useMemo";
 // import UseCallback from "./feature/useCallback";
 // import InputForm from "./components/InputForm";
@@ -13,6 +14,7 @@ function App() {
       {/* <StateCounter /> */}
       {/* <UseCallback /> */}
       {/* <UseMemo /> */}
+      {/* <CustomTable /> */}
     </>
   );
 }
